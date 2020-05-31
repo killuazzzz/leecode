@@ -39,3 +39,4 @@ var isPalindrome2 = function (x) {
   }
   return now === x
 }
+
